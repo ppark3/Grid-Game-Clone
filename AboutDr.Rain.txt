@@ -1,0 +1,17 @@
+About Dr. Rain
+This game does not have much narrative context other than the fact that it's raining. In fact, it's raining so much that your screen is being flooded. In order to prevent being completed flooded, you must create paths between two "stones" (or darker colored tiles) at a time using tiles of the same lighter color and destroy them. The player is represented as an orange circle on screen.
+
+How to Play
+Players move using "WASD". 
+In addition to moving, players can do two things: destroy and switch tiles.
+To destroy a tile, players must press "J". When a player destroys a tile, they also destroy any adjacent tiles that are of the same color. Those adjacent tiles can also destroy adjacent tiles of their own, and it can ultimately create a big chain of tiles that are destroyed. This way, players can technically destroy a whole bunch of tiles in one button.
+To destroy stones, however, they MUST be connected to each other by a path of tiles of a lighter color of the stones. So, for example, two dark red stones would need a path of regular red tiles between them in order to be destroyed. Simply press "J" when your orange icon is on top of a path connecting two stones in order to destroy the stones. Two stones next to each other does not constitute as a path. 
+To switch tiles, press "K" when on top of a tile and press "K" again on another tile to switch the two tiles. When pressing "K" for the first time, a white circle will appear on top of the tile as a mark to let you know which tile will be switched. 
+Stones cannot be destroyed (at least, not by pressing "J") nor switched. 
+
+Merits
+I did not really focus on narrative or visual design for this mod. Instead, my main mission was to just create a relaxing and fun game.
+I spent a lot of time coming up with the rules of this game, working on the code, and finding music/sound effects. 
+I had initially wanted to create some kind of art for the tiles and player sprites, but the more I playtested my own game, the more I grew to appreciate the simple designs. I eventually just decided against making new art assets when I tried brainstorming some new visual icons and realized that the things I came up with had a high possibility of changing the game's very simplistic feel. 
+If I did have more time, however, I would spend it on adding some more juice to my games, like making transitions between scenes flow better and having things like tiles and players move around in smoother ways. 
+And of course, I could spend some more time on making some sort of art for my game (maybe like a background or raindrop sprites). 
